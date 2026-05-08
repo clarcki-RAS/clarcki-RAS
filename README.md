@@ -55,7 +55,7 @@ Bonjour, tu peux m'appeler **Clarcki** — développeur Fullstack encore en cons
 ### Me contacter
 
 <p align="center">
-  <a href="mailto:vohariniainaclarcki2001@gmail.com">
+  <a href="mailto:clarcki@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
