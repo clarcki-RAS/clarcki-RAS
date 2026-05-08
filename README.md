@@ -30,9 +30,15 @@ Bonjour, tu peux m'appeler **Clarcki** — développeur Fullstack encore en cons
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
@@ -40,9 +46,9 @@ Bonjour, tu peux m'appeler **Clarcki** — développeur Fullstack encore en cons
 ### Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clarcki-RAS &show_icons=true&theme=github_dark&locale=fr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clarcki-RAS&show_icons=true&theme=github_dark&locale=fr" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=github-dark-blue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarcki-RAS&theme=github-dark-blue" />
 </p>
 ---
 
