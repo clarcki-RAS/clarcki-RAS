@@ -17,7 +17,6 @@ Bonjour, tu peux m'appeler **Clarcki** — développeur Fullstack encore en cons
 
 - Passionné par la création de solutions numériques utiles
 - Proactif, engagé, et toujours prêt à relever un défi
-- Ma passion est mon expérience
 
 ---
 
