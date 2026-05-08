@@ -40,7 +40,7 @@ Bonjour, tu peux m'appeler **Clarcki** — développeur Fullstack encore en cons
 ### Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=github_dark&locale=fr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clarcki-RAS&show_icons=true&theme=github_dark&locale=fr" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=github-dark-blue" />
 </p>
@@ -49,7 +49,7 @@ Bonjour, tu peux m'appeler **Clarcki** — développeur Fullstack encore en cons
 ### Me contacter
 
 <p align="center">
-  <a href="mailto:clarcki@gmail.com">
+  <a href="mailto:vohariniainaclarcki2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
