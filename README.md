@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing effect via readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+c'est+Clarcki+!;Fullstack+Developer;Passionn%C3%A9+%26+D%C3%A9termin%C3%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey,c'est+Clarcki+!;Fullstack+Developer;Passionn%C3%A9+%26+D%C3%A9termin%C3%A9)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,7 +40,7 @@ Bonjour, tu peux m'appeler **Clarcki** — développeur Fullstack encore en cons
 ### Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clarcki-RAS&show_icons=true&theme=github_dark&locale=fr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clarcki-RAS &show_icons=true&theme=github_dark&locale=fr" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=github-dark-blue" />
 </p>
