@@ -48,8 +48,8 @@ Bonjour, tu peux m'appeler **Clarcki** — développeur Fullstack encore en cons
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=clarcki-RAS&show_icons=true&theme=github_dark&locale=fr" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarcki-RAS&theme=github-dark-blue" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarcki-RAS&theme=github-dark-blue" /</p>
+
 ---
 
 ### Me contacter
