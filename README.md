@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=435&lines=Hey%2C+c'est+Clarcki+!;Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=435&lines=Hey%2C+c'est+Clarcki+!;)](https://git.io/typing-svg)
+<h3 align="center">Fullstack Developer</h3>
 <br/>
 
 > *"Je manque peut-être d'expérience, mais ma passion, elle, ne manque de rien."*
